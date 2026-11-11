@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ajwain (Carom Seeds)",
+    "scientific": "Trachyspermum ammi",
+    "symptoms": ["stomach pain", "abdominal pain", "gas", "bloating", "indigestion", "stomach ache", "cold", "cough", "blocked nose"],
+    "uses": "A common kitchen remedy for gas, stomach pain, indigestion and bloating. Also used for coughs and blocked nose.",
+    "how_to_take": "Chew half a teaspoon of seeds with warm water, or boil a teaspoon of seeds in a glass of water and sip it warm.",
+    "caution": "Too much can cause heartburn. Avoid large amounts in pregnancy."
+  },
+  {
+    "name": "Cumin (Jeera)",
+    "scientific": "Cuminum cyminum",
+    "symptoms": ["stomach pain", "indigestion", "gas", "bloating", "acidity", "poor digestion", "nausea"],
+    "uses": "Used after meals to ease indigestion, gas, bloating and mild stomach pain.",
+    "how_to_take": "Boil a teaspoon of seeds in a glass of water for a few minutes and sip it warm (jeera water).",
+    "caution": "Large amounts may cause heartburn and can lower blood sugar a little. Use only food amounts in pregnancy."
+  },
+  {
+    "name": "Fennel (Saunf)",
+    "scientific": "Foeniculum vulgare",
+    "symptoms": ["stomach pain", "gas", "bloating", "stomach cramps", "indigestion", "period cramps", "bad breath", "colic"],
+    "uses": "Used for gas, bloating, cramps and as a mouth freshener after meals.",
+    "how_to_take": "Chew half a teaspoon of seeds after meals, or steep a teaspoon in hot water for 10 minutes as tea.",
+    "caution": "Avoid medicinal amounts in pregnancy. People allergic to carrot or celery may react. Do not give fennel oil to children."
+  },
+  {
+    "name": "Clove (Laung)",
+    "scientific": "Syzygium aromaticum",
+    "symptoms": ["toothache", "tooth pain", "gum pain", "sore throat", "cough", "nausea", "indigestion"],
+    "uses": "Traditionally used for toothache, sore throat and cough because of its numbing, antiseptic effect.",
+    "how_to_take": "Hold one whole clove gently near the sore tooth for a short time, or add one or two to hot tea for a sore throat.",
+    "caution": "Clove oil must be diluted and can burn gums. Large amounts can thin blood. Not for young children."
+  },
+  {
+    "name": "Black Pepper (Kali Mirch)",
+    "scientific": "Piper nigrum",
+    "symptoms": ["cold", "cough", "congestion", "sore throat", "indigestion", "poor digestion"],
+    "uses": "A warming spice used in kadha and tea for colds, cough and sore throat, and to help digestion.",
+    "how_to_take": "A pinch of powder in warm tea or kadha with tulsi and ginger, or with a little honey.",
+    "caution": "Can irritate the stomach, especially with ulcers or acid reflux. It can change how some medicines are absorbed."
+  },
+  {
+    "name": "Triphala",
+    "scientific": "Terminalia chebula, T. bellirica, Phyllanthus emblica",
+    "symptoms": ["constipation", "indigestion", "bloating", "poor digestion", "sluggish digestion"],
+    "uses": "A classic three-fruit blend used to ease constipation and support digestion.",
+    "how_to_take": "Half a teaspoon of powder in warm water at bedtime.",
+    "caution": "Can cause loose stools. Avoid in pregnancy and during diarrhea. May interact with blood thinners and diabetes medicines."
+  },
+  {
+    "name": "Isabgol (Psyllium Husk)",
+    "scientific": "Plantago ovata",
+    "symptoms": ["constipation", "loose motions", "irregular bowel", "high cholesterol", "acidity"],
+    "uses": "A fiber that softens stool for constipation and can also firm up loose stools.",
+    "how_to_take": "One teaspoon in a full glass of water, drunk right away, followed by another glass of water.",
+    "caution": "Always take with plenty of water, or it can cause choking or blockage. Take it 2 hours apart from other medicines."
+  },
+  {
+    "name": "Bael (Wood Apple)",
+    "scientific": "Aegle marmelos",
+    "symptoms": ["diarrhea", "loose motions", "constipation", "indigestion", "stomach pain", "acidity"],
+    "uses": "Traditionally used for loose motions and digestive upset.",
+    "how_to_take": "Ripe fruit pulp as a drink (sherbet), or a teaspoon of dried bael powder in water.",
+    "caution": "May lower blood sugar. Too much can cause constipation. With diarrhea, also drink plenty of fluids and ORS."
+  },
+  {
+    "name": "Coriander Seeds (Dhania)",
+    "scientific": "Coriandrum sativum",
+    "symptoms": ["indigestion", "acidity", "bloating", "gas", "urinary burning", "nausea", "stomach pain"],
+    "uses": "Used to cool the body, ease indigestion and acidity, and soothe a burning feeling while passing urine.",
+    "how_to_take": "Soak a teaspoon of seeds in a glass of water overnight, strain and drink in the morning.",
+    "caution": "May lower blood sugar and blood pressure a little. Rarely causes allergic reactions."
+  },
+  {
+    "name": "Curry Leaves",
+    "scientific": "Murraya koenigii",
+    "symptoms": ["hair fall", "grey hair", "indigestion", "nausea", "high blood sugar", "poor digestion"],
+    "uses": "Used in food and home remedies for hair health, nausea and digestion.",
+    "how_to_take": "Chew 8 to 10 fresh leaves in the morning, or use them generously in cooking.",
+    "caution": "Safe in food amounts. Large medicinal amounts may add to the effect of diabetes medicines."
+  },
+  {
+    "name": "Lemongrass",
+    "scientific": "Cymbopogon citratus",
+    "symptoms": ["cold", "fever", "stress", "indigestion", "stomach cramps", "body ache", "anxiety"],
+    "uses": "A fragrant tea herb used for colds, mild fever, stomach cramps and stress.",
+    "how_to_take": "Simmer a crushed fresh stalk in water for 5 to 10 minutes and sip as tea.",
+    "caution": "Avoid medicinal amounts in pregnancy. May cause dizziness or low blood pressure in some people."
+  },
+  {
+    "name": "Eucalyptus",
+    "scientific": "Eucalyptus globulus",
+    "symptoms": ["blocked nose", "congestion", "cold", "cough", "sinus", "headache"],
+    "uses": "Steam inhalation is traditionally used to open a blocked nose and ease chest congestion.",
+    "how_to_take": "Add a few leaves (or 2 to 3 drops of oil) to a bowl of hot water and breathe the steam for a few minutes, with a towel over your head and eyes closed.",
+    "caution": "Never swallow the oil. Keep away from the faces of young children. Be careful not to scald yourself. Can trigger asthma in some people."
+  },
+  {
+    "name": "Shatavari",
+    "scientific": "Asparagus racemosus",
+    "symptoms": ["irregular periods", "period cramps", "low milk supply", "menopause symptoms", "weakness", "low energy"],
+    "uses": "Traditionally used as a women's health tonic for periods, lactation and menopause symptoms.",
+    "how_to_take": "Half a teaspoon of powder in warm milk, once a day.",
+    "caution": "Ask a doctor first if pregnant, or if you have a hormone-sensitive condition. Can cause swelling or allergy in some people."
+  },
+  {
+    "name": "Bitter Gourd (Karela)",
+    "scientific": "Momordica charantia",
+    "symptoms": ["high blood sugar", "diabetes", "skin problems", "low appetite"],
+    "uses": "Used in food and as juice to support healthy blood sugar.",
+    "how_to_take": "Cooked as a vegetable, or a small glass of fresh juice (diluted) in the morning.",
+    "caution": "Can drop blood sugar too far with diabetes medicines. Avoid in pregnancy. May upset the stomach."
+  },
+  {
+    "name": "Jamun (Java Plum)",
+    "scientific": "Syzygium cumini",
+    "symptoms": ["high blood sugar", "diabetes", "diarrhea", "loose motions", "poor digestion"],
+    "uses": "The fruit and dried seed powder are traditionally used to support blood sugar and settle loose motions.",
+    "how_to_take": "A handful of fruit in season, or half a teaspoon of seed powder in water.",
+    "caution": "Lowers blood sugar, so take care with diabetes medicines and before surgery."
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Tulsi (Holy Basil)",
+    "scientific": "Ocimum sanctum",
+    "symptoms": ["cold", "cough", "fever", "sore throat", "congestion", "flu", "asthma", "headache", "stress", "low immunity"],
+    "uses": "Traditionally used for coughs, colds, sore throat and to support immunity. Also used as a calming herb for everyday stress.",
+    "how_to_take": "Fresh leaves chewed or boiled in water as tea (kadha), often with ginger and honey.",
+    "caution": "May lower blood sugar and can thin blood slightly. Avoid large amounts in pregnancy and around surgery."
+  },
+  {
+    "name": "Turmeric",
+    "scientific": "Curcuma longa",
+    "symptoms": ["inflammation", "joint pain", "arthritis", "swelling", "minor wounds", "cuts", "skin problems"],
+    "uses": "Used for inflammation, joint stiffness and minor wounds. Curcumin is the active compound studied most.",
+    "how_to_take": "Half a teaspoon in warm milk or food with black pepper, which helps absorption.",
+    "caution": "High doses or supplements can upset the stomach and may interact with blood thinners. Use caution with gallstones."
+  },
+  {
+    "name": "Ginger",
+    "scientific": "Zingiber officinale",
+    "symptoms": ["nausea", "vomiting", "indigestion", "bloating", "motion sickness", "cold", "cough", "period cramps", "headache", "migraine"],
+    "uses": "Used for nausea, motion sickness, indigestion and bloating, and to ease cold symptoms.",
+    "how_to_take": "Fresh slices steeped in hot water, or a small piece chewed before meals.",
+    "caution": "Large amounts can cause heartburn. May add to the effect of blood thinners and diabetes medicines."
+  },
+  {
+    "name": "Ashwagandha",
+    "scientific": "Withania somnifera",
+    "symptoms": ["stress", "anxiety", "insomnia", "poor sleep", "fatigue", "low energy", "weakness"],
+    "uses": "An adaptogen traditionally used for stress, poor sleep and tiredness.",
+    "how_to_take": "Powder (about 1/2 teaspoon) in warm milk at night, or standardized capsules as labelled.",
+    "caution": "Avoid in pregnancy. Can affect thyroid, blood sugar and sedative medicines. Not for people with autoimmune conditions without medical advice."
+  },
+  {
+    "name": "Neem",
+    "scientific": "Azadirachta indica",
+    "symptoms": ["acne", "pimples", "itching", "skin rash", "skin infection", "dandruff", "gum problems"],
+    "uses": "Used externally for acne, itching and scalp problems, and traditionally as a blood purifier.",
+    "how_to_take": "Leaf paste on the skin, neem water for washing, or neem twig for teeth.",
+    "caution": "Do not give to infants or children internally. Avoid in pregnancy and when trying to conceive."
+  },
+  {
+    "name": "Aloe Vera",
+    "scientific": "Aloe barbadensis",
+    "symptoms": ["burns", "sunburn", "dry skin", "acidity", "heartburn", "constipation", "hair problems"],
+    "uses": "The gel soothes minor burns, sunburn and dry skin. Juice is traditionally used for acidity.",
+    "how_to_take": "Apply fresh gel directly to the skin. Drink only products labelled as purified for drinking.",
+    "caution": "Aloe latex (yellow sap) is a strong laxative and unsafe in pregnancy. Patch test the gel first."
+  },
+  {
+    "name": "Giloy (Guduchi)",
+    "scientific": "Tinospora cordifolia",
+    "symptoms": ["fever", "low immunity", "recurring infections", "weakness", "cold"],
+    "uses": "Traditionally used to support immunity and recover from recurring fevers.",
+    "how_to_take": "Stem decoction or standardized tablets, usually for short periods.",
+    "caution": "Can lower blood sugar and stimulate the immune system. Avoid with autoimmune disease, around surgery, and in pregnancy. Reports link it to liver injury in some people."
+  },
+  {
+    "name": "Brahmi",
+    "scientific": "Bacopa monnieri",
+    "symptoms": ["poor memory", "low focus", "difficulty concentrating", "exam stress", "anxiety", "stress"],
+    "uses": "Traditionally used to support memory, focus and calm, popular with students.",
+    "how_to_take": "Standardized capsules or powder with ghee or milk. Effects build over weeks, not hours.",
+    "caution": "Can cause stomach upset and slow the heart rate. Use caution with thyroid or sedative medicines."
+  },
+  {
+    "name": "Amla (Indian Gooseberry)",
+    "scientific": "Phyllanthus emblica",
+    "symptoms": ["low immunity", "hair fall", "acidity", "poor digestion", "tired eyes", "high cholesterol", "high blood sugar"],
+    "uses": "Very rich in vitamin C. Used for immunity, digestion, hair health and general rejuvenation.",
+    "how_to_take": "Fresh fruit, juice, or a teaspoon of powder in water.",
+    "caution": "May lower blood sugar and slow clotting. Take care before surgery and with diabetes medicines."
+  },
+  {
+    "name": "Fenugreek (Methi)",
+    "scientific": "Trigonella foenum-graecum",
+    "symptoms": ["high blood sugar", "diabetes", "poor digestion", "low milk supply", "high cholesterol", "hair fall"],
+    "uses": "Used to support blood sugar control, digestion and breast milk supply.",
+    "how_to_take": "Soak a teaspoon of seeds overnight and drink the water, or add seeds to food.",
+    "caution": "Can drop blood sugar too far with diabetes medicines. Avoid large amounts in pregnancy."
+  },
+  {
+    "name": "Peppermint",
+    "scientific": "Mentha piperita",
+    "symptoms": ["gas", "bloating", "irritable bowel", "headache", "tension headache", "migraine", "nausea", "indigestion", "stomach ache"],
+    "uses": "Used for gas, bloating, irritable bowel symptoms and tension headaches.",
+    "how_to_take": "Tea from fresh or dried leaves after meals.",
+    "caution": "Can worsen acid reflux. Do not apply peppermint oil to the face of young children."
+  },
+  {
+    "name": "Chamomile",
+    "scientific": "Matricaria chamomilla",
+    "symptoms": ["insomnia", "poor sleep", "anxiety", "stress", "stomach cramps", "restlessness"],
+    "uses": "A gentle herb for relaxation, mild sleep trouble and stomach cramps.",
+    "how_to_take": "A cup of tea in the evening, steeped for 5 to 10 minutes.",
+    "caution": "People allergic to ragweed or daisies may react. May add to the effect of blood thinners."
+  },
+  {
+    "name": "Garlic",
+    "scientific": "Allium sativum",
+    "symptoms": ["high cholesterol", "high blood pressure", "cold", "infection", "low immunity"],
+    "uses": "Used to support heart health and cholesterol, and traditionally for colds.",
+    "how_to_take": "One or two raw or lightly crushed cloves with food.",
+    "caution": "Raises bleeding risk with blood thinners and before surgery. Can irritate the stomach."
+  },
+  {
+    "name": "Cinnamon",
+    "scientific": "Cinnamomum verum",
+    "symptoms": ["high blood sugar", "diabetes", "cold", "poor digestion"],
+    "uses": "Used in cooking and tea for digestion and to support healthy blood sugar.",
+    "how_to_take": "A small pinch to half a teaspoon in tea, oats or food.",
+    "caution": "Cassia type has coumarin, which can harm the liver in large amounts. Keep to small daily amounts."
+  },
+  {
+    "name": "Mulethi (Licorice Root)",
+    "scientific": "Glycyrrhiza glabra",
+    "symptoms": ["cough", "dry cough", "sore throat", "hoarse voice", "acidity", "mouth ulcers"],
+    "uses": "A classic throat soother used for dry cough, sore throat and hoarse voice.",
+    "how_to_take": "A small piece of root chewed slowly, or steeped in hot water as tea for a few days.",
+    "caution": "Long use or large amounts can raise blood pressure and lower potassium. Avoid in pregnancy, heart disease and high blood pressure."
+  },
+  {
+    "name": "Lavender",
+    "scientific": "Lavandula angustifolia",
+    "symptoms": ["headache", "tension headache", "migraine", "stress", "anxiety", "insomnia", "poor sleep"],
+    "uses": "Used for tension headaches, stress and light sleep. Often used as aroma or tea.",
+    "how_to_take": "Inhale the aroma of the flowers or oil, or drink as a mild tea. Dilute oil before it touches skin.",
+    "caution": "Do not swallow the essential oil. It may cause drowsiness with sedatives. Skin reactions are possible."
+  }
+]
